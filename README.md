@@ -1,6 +1,6 @@
 # Minitask2
 
-### [Project 1: Water Level Indicator](https://github.com/GayatriRR/MiniTask1#proj-17-water-level-controller-using-8051-microcontroller)
+## [Project 1: Water Level Indicator](https://github.com/GayatriRR/MiniTask1#proj-17-water-level-controller-using-8051-microcontroller)
 
 **Problem Statement:** In our daily lives, we need to regularly measure the level of water in the tank to know when to switch the motor on and off. For this, we need a water level indicator which can estimate the level of water in the tank. 
 
@@ -21,4 +21,4 @@ This would involve a Probes >> Transistor >> Relay >> Pump circuit.
 An LCD Display for a circuit containing an ultrasonic sensor would make more sense.
 
 
-### Project 2: 
+## Project 2: 
