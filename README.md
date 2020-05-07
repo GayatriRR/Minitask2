@@ -31,7 +31,7 @@ The general working principle of the notice board: Message >> Transmission throu
 
 | Wireless technology | Feasibilty | Advantages | Disadvantages |
 |------------|---------------|---------------|----------------|
-
+|GSM | 
 
 
 
