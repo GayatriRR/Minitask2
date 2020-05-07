@@ -31,9 +31,9 @@ The general working principle of the notice board: Message >> Transmission throu
 
 | Wireless technology | Feasibilty | Advantages | Disadvantages |
 |------------|---------------|---------------|----------------|
-| GSM | Need to understand how to work with the technology | Long range wireless communication | Low data transfer.|
-| Bluetooth | Not hard to implement when you know how to work with it | Decent transfer of data. Less power consumption. | Short range data transfer. Peer to peer transfer. |
-| WiFi | Not hard to implement, most comfortable infact | Fast transfer, good operating range | Needs to be close to a WiFi access point. Power consumption. |
+| [GSM](https://www.electronicshub.org/wireless-electronic-notice-board-using-gsm/) | Need to understand how to work with the technology | Long range wireless communication | Low data transfer.|
+| [Bluetooth](https://www.ijert.org/research/wireless-e-notice-board-using-bluetooth-technology-IJERTCONV6IS07092.pdf) | Not hard to implement when you know how to work with it | Decent transfer of data. Less power consumption. | Short range data transfer. Peer to peer transfer. |
+| [WiFi](http://ijiset.com/vol3/v3s3/IJISET_V3_I3_24.pdf) | Not hard to implement, most comfortable infact | Fast transfer, good operating range | Needs to be close to a WiFi access point. Power consumption. |
 
 [Selection of the wireless communication](https://predictabledesigns.com/wireless_technologies_bluetooth_wifi_zigbee_gsm_lte_lora_nb-iot_lte-m/) is based on the applications. For secure long range applications, and ones that might involve the devices not close to a WiFi access point, we would use a GSM technology. For short range applications, depending on data that needs to be transferred, we could choose between bluetooth and WiFi. 
 
