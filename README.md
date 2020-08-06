@@ -1,4 +1,4 @@
-# Minitask2
+# Optimising Pipeline
 
 ## [Project 1: Water Level Indicator](https://github.com/GayatriRR/MiniTask1#proj-17-water-level-controller-using-8051-microcontroller)
 
